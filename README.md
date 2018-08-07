@@ -1,6 +1,6 @@
 # GoJet
 
-[![Build Status](https://travis-ci.com/asaf/gojet.svg?branch=master)](https://travis-ci.com/asaf/gojet)
+[![Build Status](https://travis-ci.com/asaf/gojet.svg?branch=master)](https://travis-ci.com/asaf/gojet) [![Join the chat at https://gitter.im/gojet/Lobby](https://badges.gitter.im/gojet/Lobby.svg)](https://gitter.im/gojet/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 GoJet is a CLI tool to automate testing of HTTP APIs, written in Golang.
 
